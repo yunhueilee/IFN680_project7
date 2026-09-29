@@ -1,0 +1,16 @@
+# not include pdf
+*.pdf
+.DS_Store
+.vscode
+*.zip
+!project7_report.pdf
+
+# not include .claude files
+.claude
+/.claude/
+/figures
+
+# not include files below
+Week_9_solution.ipynb
+mnist_custom.pt
+
